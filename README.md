@@ -49,7 +49,7 @@ Copy `slack-irc/config.json.sample` to `slack-irc/config.json` and change the co
 
 ```
 docker pull chihchun/slack-ircbridge
-docker run -d -t -v ${PWD}/slack-irc:/slack-irc slack-ircbridge
+docker run -d -t -v ${PWD}/slack-irc:/slack-irc chihchun/slack-ircbridge
 ```
 
 # Build from source
