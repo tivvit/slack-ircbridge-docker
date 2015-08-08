@@ -1,6 +1,5 @@
-FROM node
+FROM node:0.12.7
 MAINTAINER Rex Tsai <rex.cc.tsai@gmail.com>
-
 
 # Usual update / upgrade
 ENV DEBIAN_FRONTEND noninteractive
