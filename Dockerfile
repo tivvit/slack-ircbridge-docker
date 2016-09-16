@@ -1,4 +1,4 @@
-FROM node:0.12.7
+FROM node
 MAINTAINER Rex Tsai <rex.cc.tsai@gmail.com>
 
 # Usual update and install
