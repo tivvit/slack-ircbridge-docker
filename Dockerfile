@@ -1,4 +1,4 @@
-FROM node
+FROM node:slim
 MAINTAINER Rex Tsai <rex.cc.tsai@gmail.com>
 
 # Usual update and install
